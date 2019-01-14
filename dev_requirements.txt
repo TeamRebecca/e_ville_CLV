@@ -1,0 +1,10 @@
+-r requirements.txt
+flake8
+autopep8
+pytest
+matplotlib
+pytest-cov
+pytest-mpl
+coveralls
+pydocstyle
+pycodestyle
